@@ -41,7 +41,8 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.674" />
+        app:layout_constraintVertical_bias="0.674"
+        style="@style/Theme.Certification.QuizButton" />
 
     <Button
         android:id="@+id/button2"
@@ -52,7 +53,8 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toEndOf="@+id/button1"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.674" />
+        app:layout_constraintVertical_bias="0.674"
+        style="@style/Theme.Certification.QuizButton" />
 
     <Button
         android:id="@+id/button3"
@@ -64,6 +66,7 @@
         app:layout_constraintHorizontal_bias="0.472"
         app:layout_constraintStart_toEndOf="@+id/button2"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.674" />
+        app:layout_constraintVertical_bias="0.674"
+        style="@style/Theme.Certification.QuizButton" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
