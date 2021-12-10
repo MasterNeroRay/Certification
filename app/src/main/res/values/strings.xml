@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Certification</string>
+    <string name="wrong">WRONG!</string>
+    <string name="badluck">BADLUCK!</string>
+    <string name="amazing">AMAZING!</string>
+    <string name="more_fun">More fun</string>
+</resources>
